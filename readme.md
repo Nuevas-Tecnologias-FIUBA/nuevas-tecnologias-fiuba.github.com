@@ -12,7 +12,7 @@ Este repositorio contiene el sitio de github de la materia.
 
 ## Recursos
 
-* Web: http://html5boilerplate.com
+* Initializr: [http://www.initializr.com/](http://www.initializr.com/)
 
 
 ## License
