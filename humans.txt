@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  <your title>: <your name>
+  <your title>: Nicolás Bello Camilletti
   Site:
-  Twitter:
-  Location:
+  Twitter: nbellocam
+  Location: Argentina
 
 /* THANKS */
   Names (& URL):
