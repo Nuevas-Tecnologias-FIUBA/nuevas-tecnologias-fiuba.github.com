@@ -1,7 +1,7 @@
 
 # [Sitio de Nuevas Tecnologías FIUBA](http://nuevas-tecnologias-fiuba.github.com)
 
-Este repositorio contiene el sitio de github de la materia.
+Este repositorio contiene el sitio de github de la materia. Pueden colaborar de la forma que quieran, ya sea marcando issues, o agregando/modificando el contenido.
 
 ## Clases
 
