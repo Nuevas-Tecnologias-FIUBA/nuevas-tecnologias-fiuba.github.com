@@ -1,4 +1,4 @@
-# [Sitio de Nuevas Tecnolog�as FIUBA](http://nuevas-tecnologias-fiuba.github.com)
+# [Sitio de Nuevas Tecnologías FIUBA](http://nuevas-tecnologias-fiuba.github.com)
 
 Este repositorio contiene el sitio de github de la materia. Pueden colaborar de la forma que quieran, ya sea creando issues, o agregando/modificando el contenido.
 
@@ -9,14 +9,9 @@ Este repositorio contiene el sitio de github de la materia. Pueden colaborar de 
 * [Grails](https://github.com/Nuevas-Tecnologias-FIUBA/Clase-Grails/)
 
 
-## Recursos
-
-* Initializr: [http://www.initializr.com/](http://www.initializr.com/)
-
-
 ## License
 
 ![Alt text](http://i.creativecommons.org/l/by-nc/3.0/88x31.png)
 
-[Creative Commons Atribuci�n-NoComercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
+[Creative Commons Atribución-NoComercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
 
