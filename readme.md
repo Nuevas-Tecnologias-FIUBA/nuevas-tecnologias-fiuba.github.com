@@ -1,7 +1,6 @@
+# [Sitio de Nuevas Tecnologï¿½as FIUBA](http://nuevas-tecnologias-fiuba.github.com)
 
-# [Sitio de Nuevas Tecnologías FIUBA](http://nuevas-tecnologias-fiuba.github.com)
-
-Este repositorio contiene el sitio de github de la materia. Pueden colaborar de la forma que quieran, ya sea marcando issues, o agregando/modificando el contenido.
+Este repositorio contiene el sitio de github de la materia. Pueden colaborar de la forma que quieran, ya sea creando issues, o agregando/modificando el contenido.
 
 ## Clases
 
@@ -19,5 +18,5 @@ Este repositorio contiene el sitio de github de la materia. Pueden colaborar de 
 
 ![Alt text](http://i.creativecommons.org/l/by-nc/3.0/88x31.png)
 
-[Creative Commons Atribución-NoComercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
+[Creative Commons Atribuciï¿½n-NoComercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
 
