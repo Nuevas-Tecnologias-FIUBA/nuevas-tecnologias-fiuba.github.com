@@ -1,0 +1,103 @@
+﻿<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Régimen</title>
+	<meta name="description" content="">
+	<meta name="author" content="Nicolas Bello Camilletti">
+
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+	body {
+	  padding-top: 60px;
+	  padding-bottom: 40px;
+	}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-responsive.min.css">
+	<link rel="stylesheet" href="css/style.css">
+
+	<script src="js/libs/modernizr-2.5.3-respond-1.1.0.min.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="http://nuevas-tecnologias-fiuba.github.com/">Nuevas tecnologías - FIUBA</a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li><a href="http://nuevas-tecnologias-fiuba.github.com/">Inicio</a></li>
+              <li><a href="http://nuevas-tecnologias-fiuba.github.com/regimen.html">Régimen</a></li>
+			  <li><a href="http://nuevas-tecnologias-fiuba.github.com/clases.html">Clases</a></li>
+			  <li class="active"><a href="http://nuevas-tecnologias-fiuba.github.com/tp.html">Trabajo Práctico</a></li>
+              <li><a href="http://nuevas-tecnologias-fiuba.github.com/contact.html">Contacto</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="page-header">
+		<h1>Trabajo práctico</h1>
+      </div>
+	  
+	  <div class="row">
+			<div class="span12">
+				<p>Para aprobar la materia se debe presentar un trabajo práctico, cuyo tema será de elección del alumno o grupo de alumnos que realizarán el trabajo, dando preferencia al desarrollo en Groovy y Grails de un sistema de gestión que integre tecnologías y conceptos innovadores (por ejemplo Web 2.0). El alcance del trabajo se definirá en función de la cantidad de participantes, pudiendo variar desde un trabajo práctico individual hasta un grupo de a lo sumo cuatro participantes.</p>
+
+				<h2>Entrega parcial</h2>
+				<p>Se debe realizar una entrega previa en la octava semana de clases, que consiste en:</p>
+
+				<ul>
+					<li>Un texto breve que describe en grandes rasgos el dominio sobre el cuál se trabaja</li>
+					<li>Una serie de historias de usuario -cuyo número dependerá de la cantidad de integrantes del grupo-</li>
+					<li>Un modelo de dominio que dé soporte a las historias escritas</li>
+					<li>Un modelo de dominio implementado con sus test unitarios correspondientes demostrando que el dominio no es anémico.</li>
+				</ul>
+
+				<p>Para esta entrega se provee un template de proyecto en github en el repositorio identificado como TpTemplate-[año]-[cuatrimestre] donde el año y el cuatrimestre debe ser el que el alumno haya cursado la materia (Ejemplo: si el alumno cursó en el segundo cuatrimestre del año 2012, el repositorio correspondiente será TpTemplate-2012-2). Se deberá hacer un fork del repositorio y se cambiarán los datos de ejemplo en los diferentes archivos y carpetas por los los propios. Una vez listo para realizar la entrega se cargará un issue en el repositorio original dando el aviso de la entrega.</p>
+
+				<p>El modelo de dominio debe estar implementado en alguno de los lenguajes que corren sobre la <abbr title="Java Virtual Machine">JVM</abbr> (Groovy, Scala, Clojure, Java, etc.) usando los conceptos de orientación a objetos aprendidos en Algoritmos III y los explicados en las clases sobre Domain-Driven Design, de forma tal que a partir de la lectura del código sean evidentes los conceptos y funcionalidades involucrados.  Técnicamente, el dominio del problema debe estar modelado con lo que se conoce como <abbr title="Plain Old Java Objects">“POJOs”</abbr>.</p>
+
+				<h2>Entrega final</h2>
+				<p>La entrega final consiste en la presentación de una aplicación en donde se implementen las historias de usuario. Para esto es necesario integrar una serie de tecnologías y frameworks que brinden la infraestructura adecuada al modelo del dominio. Se sugiere la utilización del Framework Spring para resolver la inyección de dependencias e Hibernate para resolver la persistencia. </p>
+
+				<p>El trabajo práctico se presentará en alguna fecha de coloquio habilitada. Para su aprobación, además de las preguntas acerca de lo realizado en el trabajo práctico, se podrán hacer preguntas sobre los temas conceptuales explicados en clase, especialmente los que tiene que ver con “Domain Driven Design”. En el trabajo práctico se prestará especial atención a que el modelo de dominio NO tenga las características de un “modelo de dominio anémico” (concepto que se explicará oportunamente).</p>
+			</div>
+	  </div>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Nuevas tecnologías - FIUBA 2012 <a class="btn btn-mini btn-info" href="https://github.com/Nuevas-Tecnologias-FIUBA/UserFeedback/issues/new" title="Feedback" target="_blank"><i class="icon-comment icon-white"></i> Feedback</a></p>
+      </footer>
+
+    </div> <!-- /container -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+<script src="js/libs/bootstrap.min.js"></script>
+
+<script src="js/script.js"></script>
+<!-- <script>
+	var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+	(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+	s.parentNode.insertBefore(g,s)}(document,'script'));
+</script> -->
+
+</body>
+</html>
