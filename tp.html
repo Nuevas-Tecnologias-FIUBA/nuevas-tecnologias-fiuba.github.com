@@ -42,32 +42,72 @@
 	  
 	  <div class="row-fluid">
 			<div class="span12">
-				<p>Para aprobar la materia se debe presentar un trabajo práctico, cuyo tema será de elección del alumno o grupo de alumnos que realizarán el trabajo, dando preferencia al desarrollo en Groovy y Grails de un sistema de gestión que integre tecnologías y conceptos innovadores (por ejemplo Web 2.0). El alcance del trabajo se definirá en función de la cantidad de participantes, pudiendo variar desde un trabajo práctico individual hasta un grupo de a lo sumo cuatro participantes.</p>
+				<p>Para aprobar la materia es necesario presentar y aprobar un trabajo práctico, cuyo tema será de elección del alumno o grupo, previo acuerdo con el equipo docente, dando preferencia al desarrollo con <a href="http://en.wikipedia.org/wiki/Groovy_%28programming_language%29">Groovy</a> y <a href="http://en.wikipedia.org/wiki/Grails_%28framework%29">Grails</a> de una aplicación de tipo empresarial que integre tecnologías y conceptos innovadores. El alcance será definido por el equipo docente en función de la cantidad de integrantes del grupo, que podrá ser de a lo sumo cuatro participantes.</p>
 
-				<h2>Entrega parcial</h2>
-				<p>Se debe realizar una entrega previa durante la cursada de la materia que consiste en:</p>
+				<h2 id="Entrega_Parcial">Entrega Parcial</h2>
+
+				<h3 id="Objetivo">Objetivo</h3>
+
+				<p>Seleccionar un espacio de problemas o <a href="http://en.wikipedia.org/wiki/Domain_%28software_engineering%29">dominio</a> de aplicación lo suficientemente complejo para plantear una serie de <a href="http://en.wikipedia.org/wiki/User_stories">historias de usuario</a> no triviales que tengan lugar en el mismo y acordar con el equipo docente cuáles resolver en la entrega final. </p>
+
+				<h3 id="Alcance">Alcance</h3>
+
+				<p>Esta primera entrega condiciona la entrega final. Las historias de usuario implementadas en el trabajo final son las propuestas en esta instancia. Pueden ser más o menos, según la complejidad y la cantidad de integrantes del grupo. Si bien no deben ser triviales, es recomendable que no sean tan complejas que no puedan ser implementadas en un cuatrimestre. </p>
+
+				<h3 id="Entrega">Entrega</h3>
+
+				<p>Consiste en presentar en la fecha, oportunamente comunicada durante la cursada, un material impreso que incluya al menos las siguientes secciones: </p>
+
+				<h4 id="Carátula">Carátula</h4>
 
 				<ul>
-					<li>Un texto breve que describe en grandes rasgos el dominio sobre el cuál se trabaja</li>
-					<li>Una serie de historias de usuario -cuyo número dependerá de la cantidad de integrantes del grupo-</li>
-					<li>Un modelo de dominio que dé soporte a las historias escritas</li>
-					<li>Un modelo de dominio implementado con sus test unitarios correspondientes demostrando que el dominio no es anémico.</li>
+				<li>Título o nombre de fantasía del trabajo práctico</li>
+				<li>Año y cuatrimestre de cursada</li>
+				<li>Nombre, apellido y padrón de cada uno de los integrantes del grupo</li>
 				</ul>
 
-				<p>Para esta entrega deberá incluir el código fuente del modelo. Se espera que sea un link a un archivo descargable que contenga todo el código fuente o un link a un repositorio, con preferencia de este último, en especial si cuenta con sistema para cargar issues como tiene GitHub, Assembla y otros.</p>
+				<h4 id="Escenario">Escenario</h4>
 
-				<p>El modelo de dominio debe estar implementado en alguno de los lenguajes que corren sobre la <abbr title="Java Virtual Machine">JVM</abbr> (Groovy, Scala, Clojure, Java, etc.) usando los conceptos de orientación a objetos aprendidos en Algoritmos III y los explicados en las clases sobre Domain-Driven Design, de forma tal que a partir de la lectura del código sean evidentes los conceptos y funcionalidades involucrados.  Técnicamente, el dominio del problema debe estar modelado con lo que se conoce como <abbr title="Plain Old Java Objects">“POJOs”</abbr>.</p>
-
-				<h2>Entrega final</h2>
-				<p>La entrega final consiste en la presentación de una aplicación en donde se implementen las historias de usuario. Para esto es necesario integrar una serie de tecnologías y frameworks que brinden la infraestructura adecuada al modelo del dominio. Se sugiere la utilización del Framework Grails para el caso de usar Groovy o de los Frameworks Spring para resolver la inyección de dependencias e Hibernate para resolver la persistencia.</p>
-				<p>El trabajo práctico se presentará en alguna fecha de coloquio habilitada. Para su aprobación, además de las preguntas acerca de lo realizado en el trabajo práctico, se podrán hacer preguntas sobre los temas conceptuales explicados en clase, especialmente los que tiene que ver con “Domain Driven Design”. En el trabajo práctico se prestará especial atención a que el modelo de dominio NO tenga las características de un “modelo de dominio anémico” (concepto que se explicará oportunamente).</p>
-				<p>Es muy importante llevar las historias de usuario entregadas y aprobadas en la cursada para rendir el coloquio, llevando a la desaprobación en caso de no contar con ellas dado que se utilizarán para la corrección.</p>
-				<p>Para realizar esta entrega se deberá tener aprobada la cursada para lo cual se deberá:</p>
 				<ul>
-					<li>Tener el 75% de la asistencia a clases.</li>
-					<li>Tener aprobado la entrega parcial.</li>
+				<li>Un texto breve, entre 500 y 1000 palabras, que describa a grandes rasgos el dominio elegido y cuáles son las problemáticas que podrían presentarse en él. Debe ser lo suficientemente claro como para que una persona que no es experta en ese dominio en particular pueda entender de qué se trata.</li>
 				</ul>
-				<p>En caso de no cumplir con los requisitos no se podrá rendir como alumno regular, con lo que se deberá contactar a los docentes.</p>
+
+				<h4 id="Historias_de_usuario">Historias de usuario</h4>
+
+				<ul>
+				<li>Una serie de historias de usuario no triviales, preferentemente escritas en formato <a href="http://en.wikipedia.org/wiki/Behavior-driven_development">Behavior-driven development</a>, que sean propias del dominio descripto en la sección Escenario y no sean comunes a cualquier aplicación. En particular se consideran triviales las historias relacionadas con la administración de entidades en términos de altas, bajas y modificaciones.</li>
+				</ul>
+
+				<h4 id="Modelo_del_dominio">Modelo del dominio</h4>
+
+				<ul>
+				<li><a href="http://en.wikipedia.org/wiki/Class_diagram">Diagrama de clases</a> <a href="http://en.wikipedia.org/wiki/Unified_Modeling_Language">UML</a> del modelo del dominio, indicando relaciones de cardinalidad, herencia, composición y métodos públicos.</li>
+				</ul>
+
+				<h4 id="Enlaces">Enlaces</h4>
+
+				<ul>
+				<li><a href="http://en.wikipedia.org/wiki/Short_link">Enlace corto</a> y <a href="http://en.wikipedia.org/wiki/QR_code">código QR</a> correspondiente para descargar el código fuente correspondiente a la implementación las clases presentadas en la sección Modelo del dominio. Preferentemente, agregar código de pruebas unitarias automáticas que muestren su uso.</li>
+				</ul>
+
+				<h2 id="Entrega_Final">Entrega Final</h2>
+
+				<h3 id="Objetivo">Objetivo</h3>
+
+				<p>Mostrar un prototipo funcional de aplicación que implemente los casos de éxito de las historias de usuario presentadas en la entrega parcial y acordadas con el equipo docente, haciendo uso de los conceptos, técnicas y tecnologías explicados durante el desarrollo de la cursada.</p>
+
+				<h3 id="Alcance">Alcance</h3>
+
+				<p>Como mínimo, cada una de las historias de usuario presentadas en la entrega parcial y acordadas con el equipo docente debe resultar funcional. No es necesario contemplar validaciones obvias o historias de usuario triviales, pero sí las historias secundarias relacionadas con las reglas del negocio que se está tratando. No se trata de desarrollar un sistema completo en cada una de sus características, sino un prototipo funcional de algunos aspectos centrales. De esta forma, debe calcularse el alcance teniendo en cuenta que debería poder ser desarrollado a lo largo de un cuatrimestre.  </p>
+
+				<h3 id="Restricciones">Restricciones</h3>
+
+				<p>Los lenguajes, plataformas y herramientas utilizados en el desarrollo deben ser de <a href="http://en.wikipedia.org/wiki/Open-source_software">código abierto</a>  </p>
+
+				<h3 id="Entrega">Entrega</h3>
+
+				<p>La presentación del trabajo práctico final consiste en una exposición oral que cuente con una introducción al tema (diapositivas, tiza y pizarrón u oral) y una demostración del funcionamiento de la aplicación, siguiendo cada historia de usuario desde la interfaz de usuario hasta el mecanismo de persistencia, explicando tecnologías usadas, problemas y soluciones encontrados, arquitectura propuesta, modularización usada, descomposición funcional del trabajo. En particular se hará hincapié en la distancia usada en el lenguaje del espacio de la solución y el usuado en el espacio del problema. Esto es: qué tan cercanos son la redacción de las historias de usuario y la del código fuente que las implementa.</p>
+
 			</div>
 	  </div>
 
