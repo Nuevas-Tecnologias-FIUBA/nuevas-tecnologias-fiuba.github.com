@@ -164,18 +164,18 @@ especial atención a que el modelo de dominio NO tenga las
 características de un “modelo de dominio anémico” (concepto que se
 explicará oportunamente).
 
-**Entrega Final**
+### Entrega Final
 
-**Objetivo**
+#### Objetivo
 
 Mostrar un prototipo funcional de aplicación que implemente los casos de
 éxito de las historias de usuario presentadas en la entrega parcial y
 acordadas con el equipo docente, haciendo uso de los conceptos, técnicas
 y tecnologías explicados durante el desarrollo de la cursada.
 
-**Alcance**
+#### Alcance
 
-**Como mínimo, cada una de las historias de usuario presentadas en la
+Como mínimo, cada una de las historias de usuario presentadas en la
 entrega parcial y acordadas con el equipo docente debe resultar
 funcional. No es necesario contemplar validaciones obvias o historias de
 usuario triviales, pero sí las historias secundarias relacionadas con
@@ -185,11 +185,14 @@ prototipo funcional de algunos aspectos centrales. De esta forma, debe
 calcularse el alcance teniendo en cuenta que debería poder ser
 desarrollado a lo largo de un cuatrimestre.**
 
-**Restricciones**
-**Los lenguajes, plataformas y herramientas utilizados en el desarrollo
+#### Restricciones
+
+Los lenguajes, plataformas y herramientas utilizados en el desarrollo
 deben ser de \[código abierto\]([*http://en.wikipedia.org/wiki/Open-source\_software*](http://en.wikipedia.org/wiki/Open-source_software)) \
-**Entrega**
-**La presentación del trabajo práctico final consiste en una exposición
+
+#### Entrega
+
+La presentación del trabajo práctico final consiste en una exposición
 oral que cuente con una introducción al tema (diapositivas, tiza y
 pizarrón u oral) y una demostración del funcionamiento de la aplicación,
 siguiendo cada historia de usuario desde la interfaz de usuario hasta el
@@ -198,7 +201,7 @@ soluciones encontrados, arquitectura propuesta, modularización usada,
 descomposición funcional del trabajo. En particular se hará hincapié en
 la distancia usada en el lenguaje del espacio de la solución y el usado
 en el espacio del problema. Esto es: qué tan cercanos son la redacción
-de las historias de usuario y la del código fuente que las implementa.**
+de las historias de usuario y la del código fuente que las implementa.
 
 Los alumnos que cursan la materia 95-68, “Desarrollo con Nuevas
 Tecnologías” deberán responder además preguntas teóricas sobre los temas
@@ -339,7 +342,6 @@ una crítica, una mayor, una menor o una trivial.
 height="1.738888888888889in"}
 
 ## Anexo B: Sitio de Subastas
-    --------------------------
 
 ### Escenario
 
