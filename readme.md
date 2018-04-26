@@ -204,11 +204,15 @@ Los alumnos que cursan la materia 95-68, “Desarrollo con Nuevas
 Tecnologías” deberán responder además preguntas teóricas sobre los temas
 tratados en clase.
 
-
+<table>
+<tr>
+<td>
 En síntesis, debe quedar en claro que la materia trabaja sobre dos líneas: la primera, que tiene que ver con modelos de dominio de sistemas (en especial de gestión) plasmados en código escrito con buenas prácticas de diseño con tecnología de orientación a objetos en Java (o los nuevos lenguajes), sin infraestructura. La segunda parte tiene que ver con la infraestructura necesaria para que la aplicación escale adecuadamente, favoreciendo la utilización de tecnologías innovadoras.
-
-Como punto final, se destaca el compromiso de la cátedra con el “software libre”: existen excelentes productos de software libre que se pueden bajar libremente por Internet, cuyas licencias permiten utilizarlo, ver su código fuente, mejorarlo e incluso publicarlo, sin que se violen derechos de propiedad intelectual. Por eso todos los trabajos prácticos se realizarán con software libre.|
-
+<p>
+Como punto final, se destaca el compromiso de la cátedra con el “software libre”:  existen excelentes productos de software libre que se pueden bajar libremente por Internet, cuyas licencias permiten utilizarlo, ver su código fuente, mejorarlo e incluso publicarlo, sin que se violen derechos de propiedad intelectual. Por eso todos los trabajos prácticos se realizarán con software libre.
+</td>
+</tr>
+</table>
 
 Criterios de evaluación final
 -----------------------------
@@ -239,34 +243,35 @@ Criterios de evaluación final
 
 -   Justificación de las tecnologías utilizadas
 
-Cuerpo Docente
---------------
+## Cuerpo Docente
 
 Profesor: Lic Pablo G. Cosso     [*pablo.cosso@gmail.com*](mailto:pablo.cosso@gmail.com?subject=Desarrollo%20con%20Nuevas%20Tecnologías)
-  -------------------------------- -------------------------------------------------------------------------------------------------------------------
+
 Ayudante: Lic. Marcos Saladino   [*marcos.saladino@gmail.com*](mailto:marcos.saladino@gmail.com?subject=Desarrollo%20con%20Nuevas%20Tecnologías)
-Ing. Nicolás Bello Camilletti    [*nbellocamilletti@gmail.com*](mailto:nbellocamilletti@gmail.com?subject=Desarrollo%20con%20Nuevas%20Tecnologías)
+
 Ing. Mauro Ciancio               [*maurociancio@gmail.com*](mailto:maurociancio@gmail.com?subject=Desarrollo%20con%20Nuevas%20Tecnologías)
+
+### Amigos
+Ing. Nicolás Bello Camilletti    [*nbellocamilletti@gmail.com*](mailto:nbellocamilletti@gmail.com?subject=Desarrollo%20con%20Nuevas%20Tecnologías)
+
 Lic. Flavio Oliveri              [*flavio.oliveri@gmail.com*](mailto:flavio.oliveri@gmail.com?subject=Desarrollo%20con%20Nuevas%20Tecnologías)
 
-Lista de correo electrónico de la materia
------------------------------------------
+
+## Lista de correo electrónico de la materia
 
 La materia cuenta con un lista de correo electrónico en google:
 
 [*http://groups.google.com/group/nuevas-tecnologias-fiuba*](http://groups.google.com/group/nuevas-tecnologias-fiuba)
 ----------------------------------------------------------------------------------------------------------------------
 
-Github
-------
+## Github
 
 La materia posee una cuenta en github
 
 [*https://github.com/Nuevas-Tecnologias-FIUBA*](https://github.com/Nuevas-Tecnologias-FIUBA)
   ----------------------------------------------------------------------------------------------
 
-Sitios de Interés
------------------
+## Sitios de Interés
 
 **Java**     [*http://www.oracle.com/technetwork/java/index.html*](http://www.oracle.com/technetwork/java/index.html)
 
