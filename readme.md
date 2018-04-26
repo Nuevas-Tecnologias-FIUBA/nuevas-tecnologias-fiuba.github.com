@@ -9,33 +9,25 @@ Este repositorio contiene el sitio de github de la materia. Pueden colaborar de 
 * [Grails](https://github.com/Nuevas-Tecnologias-FIUBA/Clase-Grails/)
 
 
-## License
-
-![Alt text](http://i.creativecommons.org/l/by-nc/3.0/88x31.png)
-
-[Creative Commons Atribución-NoComercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
 
 # Materias
 ## Seminario de Ingeniería Informática I (75-71)
 ## Seminario de Ingeniería Informática II (75-72)
 ## Desarrollos con Nuevas Tecnologías (95-68)
 
-Año 2018 - 1° cuatrimestre
---------------------------
+### Año 2018 - 1° cuatrimestre
 
-Régimen de la materia
----------------------
+## Régimen de la materia
 
-Objetivo
---------
+
+## Objetivo
 
 Que los alumnos puedan construir aplicaciones con nuevas herramientas de
 desarrollo de software, validando nuevas teorías, que les permitan
 generar innovaciones tecnológicas para satisfacer requerimientos que
 deben cumplir los nuevos productos de software.
 
-Motivación
-----------
+## Motivación
 
 El cambio tecnológico en las tecnologías de información y comunicaciones
 es vertiginoso. Con la instalación del paradigma centrado en red, que
@@ -55,8 +47,7 @@ partir de algunas de las herramientas que se pueden bajar gratuitamente
 de Internet, se puedan construir aplicaciones que se adapten a este
 nuevo paradigma planteado.
 
-Tecnologías habilitadas para el desarrollo
-------------------------------------------
+## Tecnologías habilitadas para el desarrollo
 
 ### Herramientas (software de base)
 
@@ -425,3 +416,11 @@ quiero modificar el precio base de la misma para adecuarlo a mis
 necesidades.
 
 La subasta debe estar en curso y no haber recibido ofertas.
+
+
+## Licencia
+
+![Alt text](http://i.creativecommons.org/l/by-nc/3.0/88x31.png)
+
+[Creative Commons Atribución-NoComercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
+
