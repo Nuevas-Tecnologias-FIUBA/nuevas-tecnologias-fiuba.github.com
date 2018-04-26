@@ -15,14 +15,10 @@ Este repositorio contiene el sitio de github de la materia. Pueden colaborar de 
 
 [Creative Commons Atribución-NoComercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
 
-# Seminario de Ingeniería Informática I (75-71)
-=============================================
-
-# Seminario de Ingeniería Informática II (75-72)
-==============================================
-
-# Desarrollos con Nuevas Tecnologías (95-68)
-==========================================
+# Materias
+## Seminario de Ingeniería Informática I (75-71)
+## Seminario de Ingeniería Informática II (75-72)
+## Desarrollos con Nuevas Tecnologías (95-68)
 
 Año 2018 - 1° cuatrimestre
 --------------------------
@@ -168,18 +164,17 @@ especial atención a que el modelo de dominio NO tenga las
 características de un “modelo de dominio anémico” (concepto que se
 explicará oportunamente).
 
-**Entrega Final**\
-\
+**Entrega Final**
+
 **Objetivo**
 
 Mostrar un prototipo funcional de aplicación que implemente los casos de
 éxito de las historias de usuario presentadas en la entrega parcial y
 acordadas con el equipo docente, haciendo uso de los conceptos, técnicas
-y tecnologías explicados durante el desarrollo de la cursada.\
-\
+y tecnologías explicados durante el desarrollo de la cursada.
+
 **Alcance**
 
-**\
 **Como mínimo, cada una de las historias de usuario presentadas en la
 entrega parcial y acordadas con el equipo docente debe resultar
 funcional. No es necesario contemplar validaciones obvias o historias de
@@ -188,16 +183,12 @@ las reglas del negocio que se está tratando. No se trata de desarrollar
 un sistema completo en cada una de sus características, sino un
 prototipo funcional de algunos aspectos centrales. De esta forma, debe
 calcularse el alcance teniendo en cuenta que debería poder ser
-desarrollado a lo largo de un cuatrimestre.\
-\
-**Restricciones**
+desarrollado a lo largo de un cuatrimestre.**
 
-**\
+**Restricciones**
 **Los lenguajes, plataformas y herramientas utilizados en el desarrollo
-deben ser de \[código
-abierto\]([*http://en.wikipedia.org/wiki/Open-source\_software*](http://en.wikipedia.org/wiki/Open-source_software)) \
-\
-**Entrega\
+deben ser de \[código abierto\]([*http://en.wikipedia.org/wiki/Open-source\_software*](http://en.wikipedia.org/wiki/Open-source_software)) \
+**Entrega**
 **La presentación del trabajo práctico final consiste en una exposición
 oral que cuente con una introducción al tema (diapositivas, tiza y
 pizarrón u oral) y una demostración del funcionamiento de la aplicación,
@@ -207,7 +198,7 @@ soluciones encontrados, arquitectura propuesta, modularización usada,
 descomposición funcional del trabajo. En particular se hará hincapié en
 la distancia usada en el lenguaje del espacio de la solución y el usado
 en el espacio del problema. Esto es: qué tan cercanos son la redacción
-de las historias de usuario y la del código fuente que las implementa.
+de las historias de usuario y la del código fuente que las implementa.**
 
 Los alumnos que cursan la materia 95-68, “Desarrollo con Nuevas
 Tecnologías” deberán responder además preguntas teóricas sobre los temas
@@ -279,14 +270,16 @@ Sitios de Interés
 -----------------
 
 **Java**     [*http://www.oracle.com/technetwork/java/index.html*](http://www.oracle.com/technetwork/java/index.html)
------------- ----------------------------------------------------------------------------------------------------------
+
 **Scala**    [*http://www.scala-lang.org/*](http://www.scala-lang.org/)
+
 **Groovy**   [*http://groovy-lang.org/*](http://groovy-lang.org/)
+
 **Spring**   [*http://www.springsource.org/*](http://www.springsource.org/)
+
 **Grails**   [*http://grails.org/*](http://grails.org/)
 
-Anexo A: Issue Tracker
-----------------------
+## Anexo A: Issue Tracker
 
 ### Escenario
 
@@ -341,7 +334,7 @@ una crítica, una mayor, una menor o una trivial.
 ![](media/image4.png){width="5.995833333333334in"
 height="1.738888888888889in"}
 
-1.  Anexo B: Sitio de Subastas
+## Anexo B: Sitio de Subastas
     --------------------------
 
 ### Escenario
