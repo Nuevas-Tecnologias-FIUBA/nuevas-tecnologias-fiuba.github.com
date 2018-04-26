@@ -15,13 +15,13 @@ Este repositorio contiene el sitio de github de la materia. Pueden colaborar de 
 
 [Creative Commons Atribución-NoComercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
 
-Seminario de Ingeniería Informática I (75-71)
+# Seminario de Ingeniería Informática I (75-71)
 =============================================
 
-Seminario de Ingeniería Informática II (75-72)
+# Seminario de Ingeniería Informática II (75-72)
 ==============================================
 
-Desarrollos con Nuevas Tecnologías (95-68)
+# Desarrollos con Nuevas Tecnologías (95-68)
 ==========================================
 
 Año 2018 - 1° cuatrimestre
@@ -129,17 +129,16 @@ cuatro participantes.
 ### Entrega Parcial
 
 Se debe realizar una entrega previa, **que tiene las características de
-examen parcial**, que consiste en:
+examen parcial**, 
+que consiste en:
 
--   Un texto breve que describe en grandes rasgos el dominio sobre el
-    > cuál se trabaja,
+- Un texto breve que describe en grandes rasgos el dominio sobre el cual se trabaja,
 
--   Una serie de historias de usuario -cuyo número dependerá de la
-    > cantidad de integrantes del grupo-
+- Una serie de historias de usuario -cuyo número dependerá de la cantidad de integrantes del grupo-
 
--   Un modelo de dominio que dé soporte a las historias escritas.
+- Un modelo de dominio que dé soporte a las historias escritas.
 
--   Un sistema funcionando, preferentemente escrito en grails.
+- Un sistema funcionando, preferentemente escrito en grails.
 
 Como ejemplo de los dos primeros puntos, se adjuntan los enunciados de
 los Anexos, “Issue Tracker” y “Sitio de Subastas”, junto con sus
