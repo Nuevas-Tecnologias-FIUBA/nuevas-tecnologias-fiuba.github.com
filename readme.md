@@ -325,11 +325,11 @@ una crítica, una mayor, una menor o una trivial.
 
 ### Gráfico 1
 
-![](media/image3.png){width="5.99375in" height="3.877083333333333in"}
+![](readme_figura1.png){width="5.99375in" height="3.877083333333333in"}
 
 ### Gráfico 2
 
-![](media/image4.png){width="5.995833333333334in"
+![](readme_figura2.png){width="5.995833333333334in"
 height="1.738888888888889in"}
 
 ## Anexo B: Sitio de Subastas
