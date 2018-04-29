@@ -201,9 +201,9 @@ tratados en clase.
 <table>
 <tr>
 <td>
-En síntesis, debe quedar en claro que la materia trabaja sobre dos líneas: la primera, que tiene que ver con modelos de dominio de sistemas (en especial de gestión) plasmados en código escrito con buenas prácticas de diseño con tecnología de orientación a objetos en Java (o los nuevos lenguajes), sin infraestructura. La segunda parte tiene que ver con la infraestructura necesaria para que la aplicación escale adecuadamente, favoreciendo la utilización de tecnologías innovadoras.
+> En síntesis, debe quedar en claro que la materia trabaja sobre dos líneas: la primera, que tiene que ver con modelos de dominio > de sistemas (en especial de gestión) plasmados en código escrito con buenas prácticas de diseño con tecnología de orientación a > objetos en Java (o los nuevos lenguajes), sin infraestructura. La segunda parte tiene que ver con la infraestructura necesaria > para que la aplicación escale adecuadamente, favoreciendo la utilización de tecnologías innovadoras.
 <p>
-Como punto final, se destaca el compromiso de la cátedra con el “software libre”:  existen excelentes productos de software libre que se pueden bajar libremente por Internet, cuyas licencias permiten utilizarlo, ver su código fuente, mejorarlo e incluso publicarlo, sin que se violen derechos de propiedad intelectual. Por eso todos los trabajos prácticos se realizarán con software libre.
+> Como punto final, se destaca el compromiso de la cátedra con el “software libre”:  existen excelentes productos de software libre que se pueden bajar libremente por Internet, cuyas licencias permiten utilizarlo, ver su código fuente, mejorarlo e incluso publicarlo, sin que se violen derechos de propiedad intelectual. Por eso todos los trabajos prácticos se realizarán con software libre.
 </td>
 </tr>
 </table>
